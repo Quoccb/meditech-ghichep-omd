@@ -11,7 +11,7 @@
 
 # Phần 1: Các ghi chép về OMD.
 
-- [1. Hướng dẫn cài đặt](#1) <a name="1"></a>
+- [1. Hướng dẫn cài đặt](images/1-omd-history.png) <a name="1"></a>
 	- [1.1. CentOS 7](docs/1.1.Setup-OMD-CentOS7.md)
 	- [1.2. Ubuntu 16.04](docs/1.2.Setup-OMD-U16.04.md)
 	- [1.3. Ubuntu 14.04](docs/1.3.Setup-OMD-U14.04.md)
